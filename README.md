@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻💡 Soy ingeniera de software y capacitador en el área de informática 🚢🌊 de la Secretaría de Marina. Mi pasión es compartir mis conocimientos 🧠💬 y ayudar a otros a desarrollar sus habilidades técnicas. Actualmente estoy enseñando 📚 sobre tecnologías de vanguardia 🚀 y herramientas para mejorar la productividad 💪 en el sector marítimo. Si estás interesado en colaborar en proyectos innovadores 🤝, ¡contáctame! 📫
+👨‍💻💡 Soy ingeniera de software y capacitadora en el área de informática 🚢🌊 de la Secretaría de Marina. Mi pasión es compartir mis conocimientos 🧠💬 y ayudar a otros a desarrollar sus habilidades técnicas. Actualmente estoy enseñando 📚 sobre tecnologías de vanguardia 🚀 y herramientas para mejorar la productividad 💪 en el sector marítimo. Si estás interesado en colaborar en proyectos innovadores 🤝, ¡contáctame! 📫
 
 
 # 💻 Tech Stack:
